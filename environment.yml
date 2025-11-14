@@ -1,0 +1,21 @@
+name: ethereum-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - notebook
+  - ipykernel
+  - pandas
+  - numpy
+  - pyarrow
+  - pip:
+      - web3
+      - eth_utils
+      - eth_abi
+
+
+
+
+
