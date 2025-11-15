@@ -12,6 +12,7 @@ dependencies:
   - pyarrow
   - matplotlib
   - seaborn
+  - networkx
   - pip:
       - web3
       - eth_utils
