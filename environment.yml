@@ -10,6 +10,8 @@ dependencies:
   - pandas
   - numpy
   - pyarrow
+  - matplotlib
+  - seaborn
   - pip:
       - web3
       - eth_utils
