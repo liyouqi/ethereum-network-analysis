@@ -13,6 +13,7 @@ dependencies:
   - matplotlib
   - seaborn
   - networkx
+  - python-louvain
   - pip:
       - web3
       - eth_utils
